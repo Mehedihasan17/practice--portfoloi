@@ -56,8 +56,17 @@ h2{
     border-left:10px solid;
     border-image-slice: 1;
 }
+#nope{
+    border-image:linear-gradient(salmon,orange);
+    border-left:10px solid;
+    border-image-slice: 1;
+}
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
+    ba
     background-position: left;
+}
+footer{
+    text-align:center;
 }
