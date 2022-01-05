@@ -45,7 +45,7 @@ h2{
     margin-right:5%;
     box-shadow: 15px 15px 40px gray;
     padding-left:40px;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
     border-radius: 4px;
 
    
@@ -64,9 +64,10 @@ h2{
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    ba
-    background-position: left;
+
+    background-position:left;
 }
 footer{
     text-align:center;
+    color:rgba(128, 128, 128, 0.479);
 }
